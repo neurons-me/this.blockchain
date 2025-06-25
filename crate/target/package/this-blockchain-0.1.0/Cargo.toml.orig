@@ -9,5 +9,5 @@ repository = "https://github.com/neurons-me/this.audio"
 homepage = "https://neurons.me"
 readme = "README.md"
 keywords = ["blockchain", "Data"]
-categories = ["cryptography::cryptocurrencies", "data-structures", "network-programming"]
+categories = ["blockchain", "crypto", "decentralization"]
 [dependencies]
